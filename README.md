@@ -127,9 +127,5 @@ api-connect-nome-sobrenome/
     └── usuarios_routes.py
 ```
 
-## Repositório
 
-O código-fonte da API está disponível no GitHub:
-
-URL_DO_REPOSITORIO
 
