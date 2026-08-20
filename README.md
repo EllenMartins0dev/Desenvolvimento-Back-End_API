@@ -18,7 +18,7 @@ O projeto utiliza uma estrutura organizada, separando as rotas da aplicação pa
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/EllenMartins0dev/Desenvolvimento-Back-End_API.git
 ```
 
 ### 2. Acessar a pasta do projeto
